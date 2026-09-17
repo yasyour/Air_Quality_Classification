@@ -1,0 +1,7 @@
+Building Number            Air Quality Index
+D1                        **
+B2                        49
+C3                        100
+A1-C                      194
+A1-A                      !!
+C2                        198
