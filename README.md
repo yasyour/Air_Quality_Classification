@@ -19,7 +19,7 @@ AQI values are classified into six categories:
 
 
 The program provides a menu with three options:
-1. Conduct the air analysis: It reads AQI data from an input file, classifies each readin  and saves the results to an output file
+1. Conduct the air analysis: It reads AQI data from an input file, classifies each reading and saves the results to an output file. To conduct the analysis, make sure a file named `input.txt` containing your AQI data is present in the same directory, this is the fixed input file the program reads from. You'll then be prompted to enter a name for the output file.
 2. Display results: It prints a previously generated output file to the screen (shows an error if Option 1 hasn't been run yet)
 3. Exit the program
 
